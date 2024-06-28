@@ -7,7 +7,7 @@
 
 - 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://fomaios.tistory.com/)]([https://fomaios.tistory.com/](https://velog.io/@dmsgk991/posts))<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongeunhq&layout=compact)](https://github.com/jeongeunhq/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongeunhq&show_icons=true&theme=transparent)
 ------------------------------------------------------------------------------------------------------------------------
 ### 🌱Problem Soving 
 [![Solved.ac
