@@ -11,7 +11,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 ### 🌱Problem Soving 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dmsgk991})](https://solved.ac/{dmsgk991})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmsgk991)](https://solved.ac/dmsgk991)
 <!--
 **jeongeunhq/jeongeunhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
